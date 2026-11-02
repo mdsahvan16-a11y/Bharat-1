@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appName": "Bharat Dairy",
+  "todayCollection": "Today's Collection",
+  "todaySales": "Today's Milk Sales",
+  "todayPayout": "Today's Farmer Payout",
+  "addCollection": "Add Collection",
+  "addSale": "Add Sale"
+}

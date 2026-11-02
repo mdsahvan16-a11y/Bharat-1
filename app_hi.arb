@@ -1,0 +1,9 @@
+{
+  "@@locale": "hi",
+  "appName": "भारत डेरी",
+  "todayCollection": "आज का दूध संकलन",
+  "todaySales": "आज की कुल बिक्री",
+  "todayPayout": "आज का किसान भुगतान",
+  "addCollection": "दूध जमा करें",
+  "addSale": "दूध बेचें"
+}
